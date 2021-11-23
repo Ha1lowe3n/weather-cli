@@ -1,0 +1,25 @@
+{
+    "name": "weather-cli",
+    "version": "1.0.0",
+    "description": "CLI for getting weather",
+    "main": "index.js",
+    "bin": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "CLI",
+        "weather"
+    ],
+    "author": "Igor Trifonov",
+    "license": "ISC",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "bugs": {
+        "url": "",
+        "email": "Ha1lowe3n@yandex.ru"
+    }
+}
