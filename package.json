@@ -26,6 +26,8 @@
         "email": "Ha1lowe3n@yandex.ru"
     },
     "dependencies": {
-        "axios": "^0.24.0"
+        "axios": "^0.24.0",
+        "chalk": "^4.1.2",
+        "dedent-js": "^1.0.1"
     }
 }
